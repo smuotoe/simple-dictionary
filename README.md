@@ -2,7 +2,7 @@
 A very simple Python dictionary
 
 ### How to use
-Simple input word and it generates the definition(s)!
+Simply input word and it generates the definition(s)!
 
 #### Example
 ```
